@@ -4,6 +4,8 @@ cyrus_test
 This is the Cyrus CODE TEST JAVA completed on St. Patrick's day and emailed
 as a .zip of this same repo for evaluation. See the README for the details.
 
+This code test did not meet the standards of a Java Developer.
+
 This is the README file as requested by the online instructions for submitting a
 .zip file in response to the Cyrus CODE TEST JAVA web page.
 
